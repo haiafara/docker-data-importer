@@ -1,0 +1,13 @@
+/data/contour/*
+!/data/contour/.gitkeep
+/data/hgt/*
+!/data/hgt/.gitkeep
+/data/hillshade/*
+!/data/hillshade/.gitkeep
+/data/pbf/*
+!/data/pbf/.gitkeep
+/data/relief/*
+!/data/relief/.gitkeep
+/data/water-polygons/*
+!/data/water-polygons/.gitkeep
+
